@@ -1,0 +1,1344 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\b\qc\line Pairwise correlations }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx1098
+\fs20\pard\intbl\ql {{Variables}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx1952
+\fs20\pard\intbl\qr {{(1)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx2806
+\fs20\pard\intbl\qr {{(2)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx3660
+\fs20\pard\intbl\qr {{(3)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx4514
+\fs20\pard\intbl\qr {{(4)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx5368
+\fs20\pard\intbl\qr {{(5)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx6222
+\fs20\pard\intbl\qr {{(6)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx7076
+\fs20\pard\intbl\qr {{(7)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx7930
+\fs20\pard\intbl\qr {{(8)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx8784
+\fs20\pard\intbl\qr {{(9)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx9638
+\fs20\pard\intbl\qr {{(10)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx10492
+\fs20\pard\intbl\qr {{(11)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx11346
+\fs20\pard\intbl\qr {{(12)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx12200
+\fs20\pard\intbl\qr {{(13)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx13054
+\fs20\pard\intbl\qr {{(14)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx13908
+\fs20\pard\intbl\qr {{(15)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx14762
+\fs20\pard\intbl\qr {{(16)}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw15\brdrs\cellx15616
+\fs20\pard\intbl\qr {{(17)}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(1) y}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(2) x1}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.154*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.002)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(3) x2}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.227*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.214*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(4) x3}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.319*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.379*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.551*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(5) x4}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{0.180*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{0.197*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{-0.414*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{-0.660*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(6) x5}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.466*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.131*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.149*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.708*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.454*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.008)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.003)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(7) x6}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{0.405*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{0.021}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.096}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{-0.371*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.128*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{-0.826*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.668)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.053)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.010)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(8) x7}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.500*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.110*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{-0.010}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.571*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.201*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.886*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.859*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.027)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.844)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(9) x8}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.180*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.538*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.377*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.815*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.619*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.587*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.262*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{0.455*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(10) x9}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.500*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.110*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{-0.010}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.571*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.201*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.886*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.859*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{1.000*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{0.455*}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.027)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.844)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(11) x10}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.231*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.289*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.932*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.550*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.339*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.238*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.050}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{0.078}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{0.378*}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{0.078}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.316)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.119)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{(0.119)}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(12) x11}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{0.023}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.059}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.073}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.106*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.025}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.172*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.175*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{0.121*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{0.075}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{0.121*}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{0.113*}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.643)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.240)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.142)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.033)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.611)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.001)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.015)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.133)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{(0.015)}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{(0.023)}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(13) x12}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.324*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.114*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.801*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.604*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.542*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.345*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.041}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{0.198*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{0.534*}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{0.198*}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{0.687*}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{-0.001}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.022)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.411)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{(0.992)}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(14) x13}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.294*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.187*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.361*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.611*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.620*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.534*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.203*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{0.426*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{0.725*}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{0.426*}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{0.255*}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{-0.068}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{0.732*}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{(0.172)}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(15) x14}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.351*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.359*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.508*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.935*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.568*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{0.763*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{-0.489*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{0.588*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{0.757*}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{0.588*}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{0.586*}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{0.134*}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{0.550*}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{0.507*}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{(0.007)}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(16) x15}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{0.133*}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{0.409*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{-0.314*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{-0.530*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{0.359*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{-0.338*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{0.149*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{-0.265*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{-0.528*}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{-0.265*}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{-0.438*}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{-0.123*}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{-0.166*}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{-0.062}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{-0.602*}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{1.000}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.008)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.003)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{(0.014)}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{(0.001)}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{(0.212)}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{\i}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{(17) x16}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{-0.052}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{-0.261*}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{0.822*}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{0.201*}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{-0.214*}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{-0.169*}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{0.324*}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{-0.246*}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{0.145*}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{-0.246*}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{0.783*}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{0.033}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{0.471*}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{0.118*}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{0.144*}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{-0.229*}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{1.000}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1098
+\fs20\pard\intbl\ql {{\i}}\cell
+\cellx1952
+\fs20\pard\intbl\qr {{(0.300)}}\cell
+\cellx2806
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx3660
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx4514
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx5368
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx6222
+\fs20\pard\intbl\qr {{(0.001)}}\cell
+\cellx7076
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx7930
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx8784
+\fs20\pard\intbl\qr {{(0.003)}}\cell
+\cellx9638
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx10492
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx11346
+\fs20\pard\intbl\qr {{(0.513)}}\cell
+\cellx12200
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx13054
+\fs20\pard\intbl\qr {{(0.018)}}\cell
+\cellx13908
+\fs20\pard\intbl\qr {{(0.004)}}\cell
+\cellx14762
+\fs20\pard\intbl\qr {{(0.000)}}\cell
+\cellx15616
+\fs20\pard\intbl\qr {{\i}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx15616
+\fs20\pard\intbl\ql {\i *** p<0.01, ** p<0.05, * p<0.1}\cell
+\row}
+
+
+\writepositionforappend
+}}
